@@ -6,7 +6,7 @@ Awesome ProcessWire
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
-- [Essentials](#main)
+- [Essentials](#essentials)
 - [Modules](#modules)
 - [API](#api)
 - [Social](#social)
