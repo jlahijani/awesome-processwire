@@ -20,7 +20,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [API Cheatsheet](http://cheatsheet.processwire.com/)
 * [API Reference (ApiGen)](http://processwire.com/apigen/)
 * [Blog](http://processwire.com/about/blog/)
-* [ProcessWire Weekly](http://www.flamingruby.com/tags/processwire-weekly/)
+* [ProcessWire Weekly](http://weekly.pw/)
 * [Wirecasts (coming soon)](http://wirecasts.com/)
 
 ## Modules
