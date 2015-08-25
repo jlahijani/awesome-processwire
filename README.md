@@ -32,6 +32,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Database Backups](http://modules.processwire.com/modules/process-database-backups/)
 * [Pages Web Service](http://modules.processwire.com/modules/service-pages/)
 * [Admin Template Columns](http://modules.processwire.com/modules/admin-template-columns/)
+* [Page Field Edit Links](http://modules.processwire.com/modules/admin-page-field-edit-links/)
 
 ## Social
 * [Twitter](https://twitter.com/processwire)
