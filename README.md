@@ -23,6 +23,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Selectors](https://processwire.com/docs/selectors/)
 - [Markup Regions](https://processwire.com/docs/front-end/output/markup-regions/)
 - [setting() Function](https://processwire.com/api/ref/functions/setting/)
+- [datetime() Function](https://processwire.com/api/ref/functions/datetime/)
 
 ## Modules
 * Primary Modules
@@ -43,7 +44,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   * [Decimal](https://modules.processwire.com/modules/fieldtype-decimal/)
   * [Mystique](https://modules.processwire.com/modules/mystique/)
   * [Select File](https://modules.processwire.com/modules/fieldtype-select-file/)
-* Other
+* Ecommerce
+  * [Padloper](https://www.padloper.pw/)
   * [SnipWire](https://github.com/gadgetto/SnipWire)
 * Admin Tools
   * [Batcher](https://modules.processwire.com/modules/process-batcher/)
