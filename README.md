@@ -59,6 +59,7 @@ Awesome ProcessWire
 ## Notable People
 * [Ryan Cramer](https://processwire.com/about/team/ryan/) - Founder and lead ProcessWire developer; [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life).
 * [Teppo Koivula](https://github.com/teppokoivula) - Author of ProcessWire Weekly newsletter and module developer.
+* [Robin Sallis](https://github.com/Toutouwai) - Author of dozens of useful ProcessWire modules.
 
 ## Code Snippets
 * [ProcessWire Recipes](https://processwire-recipes.com/)
