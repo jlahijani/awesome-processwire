@@ -36,7 +36,6 @@ Awesome ProcessWire
   * [Likes](https://processwire.com/talk/store/product/12-likes-fieldtype-dev/)
 * Primary Modules
   * [Hanna Code](https://modules.processwire.com/modules/process-hanna-code/)
-  * [Hanna Code Dialog](https://modules.processwire.com/modules/hanna-code-dialog/)
   * [ProcessWire Upgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
   * [Database Backups](https://modules.processwire.com/modules/process-database-backups/)
   * [ProcessRedirects](https://processwire.com/modules/process-redirects/)
