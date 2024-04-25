@@ -45,7 +45,6 @@ Awesome ProcessWire
   * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/)
   * [Pages2JSON](https://github.com/IDT-media/Pages2JSON)
 * Fields
-  * [Decimal](https://modules.processwire.com/modules/fieldtype-decimal/)
   * [Mystique](https://modules.processwire.com/modules/mystique/)
   * [Select File](https://modules.processwire.com/modules/fieldtype-select-file/)
 * Ecommerce
