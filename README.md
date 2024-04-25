@@ -24,12 +24,19 @@ Awesome ProcessWire
 - [datetime() Function](https://processwire.com/api/ref/functions/datetime/)
 
 ## Modules
-* Primary Modules
+* Pro First Party Modules
   * [Form Builder](https://modules.processwire.com/modules/form-builder/)
+  * [ProDevTools](https://processwire.com/store/pro-dev-tools/)
+  * [ProCache](https://modules.processwire.com/modules/pro-cache/)
+  * [ProFields](https://processwire.com/store/pro-fields/)
+  * [ProMailer](https://processwire.com/store/pro-mailer/)
+  * [LoginRegisterPro](https://processwire.com/store/login-register-pro/)
+  * [ListerPro](https://processwire.com/store/lister-pro/)
+  * [ProDrafts](https://processwire.com/store/pro-drafts/)
+  * [Likes](https://processwire.com/talk/store/product/12-likes-fieldtype-dev/)
+* Primary Modules
   * [Hanna Code](https://modules.processwire.com/modules/process-hanna-code/)
   * [Hanna Code Dialog](https://modules.processwire.com/modules/hanna-code-dialog/)
-  * [ProCache](https://modules.processwire.com/modules/pro-cache/)
-  * [ListerPro](https://processwire.com/store/lister-pro/)
   * [ProcessWire Upgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
   * [Database Backups](https://modules.processwire.com/modules/process-database-backups/)
   * [ProcessRedirects](https://processwire.com/modules/process-redirects/)
