@@ -60,3 +60,6 @@ Awesome ProcessWire
 * [ProcessWire Recipes](https://processwire-recipes.com/)
 * [Soma's Gists](https://gist.github.com/somatonic)
 
+## Other
+* [ProcessWire Asset Catalog](https://pwgeeks.com/)
+
