@@ -15,12 +15,14 @@ Awesome ProcessWire
 * [Wirecasts (coming soon)](https://wirecasts.com/)
 
 ## Important Docs
+- [$pages](https://processwire.com/api/ref/pages/)
+- [$page](https://processwire.com/api/ref/page/)
+- [$sanitizer](https://processwire.com/api/ref/sanitizer/)
 - [Selectors](https://processwire.com/docs/selectors/)
 - [Markup Regions](https://processwire.com/docs/front-end/output/markup-regions/)
 - [setting() Function](https://processwire.com/api/ref/functions/setting/)
 - [datetime() Function](https://processwire.com/api/ref/functions/datetime/)
 - [WireHttp class](https://processwire.com/api/ref/wire-http/)
-- [$sanitizer](https://processwire.com/api/ref/sanitizer/)
 
 ## Modules
 * Pro First Party Modules
