@@ -57,7 +57,7 @@ Awesome ProcessWire
   * [Batcher](https://modules.processwire.com/modules/process-batcher/)
   * [Admin Template Columns](https://modules.processwire.com/modules/admin-template-columns/)
 
-# Pro Module Download Links
+## Pro Module Download Links
 Pro modules are downloaded from forum threads. They cannot be updated from GitHub or the ProcessWire Upgrade module.  These are the direct links to the forum threads which are viewable if you are (a) a forum member and (b) have an active module subscription:
 
 @todo
