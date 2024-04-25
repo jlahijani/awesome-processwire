@@ -3,8 +3,6 @@ Awesome ProcessWire
 
 > A curated list of awesome bookmarks, modules, tutorials, videos and other cool resources from the ProcessWire ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
-
 [toc]
 
 ## Essentials
@@ -34,7 +32,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   * [ListerPro](https://processwire.com/store/lister-pro/)
   * [ProcessWire Upgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
   * [Database Backups](https://modules.processwire.com/modules/process-database-backups/)
-  * [Jumplinks](https://modules.processwire.com/modules/process-jumplinks/)
+  * [ProcessRedirects](https://processwire.com/modules/process-redirects/)
 * Secondary Modules
   * [Social Share Buttons](https://modules.processwire.com/modules/markup-social-share-buttons/)
   * [GraphQL](https://modules.processwire.com/modules/process-graph-ql/)
