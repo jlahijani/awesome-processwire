@@ -3,8 +3,6 @@ Awesome ProcessWire
 
 > A curated list of awesome bookmarks, modules, tutorials, videos and other cool resources from the ProcessWire ecosystem.
 
-[toc]
-
 ## Essentials
 * [ProcessWire Website](https://processwire.com/)
 * [ProcessWire GitHub (dev branch)](https://github.com/processwire/processwire/tree/dev)
