@@ -61,10 +61,6 @@ Awesome ProcessWire
 * [Teppo Koivula](https://github.com/teppokoivula) - Author of ProcessWire Weekly newsletter and module developer.
 * [Robin Sallis](https://github.com/Toutouwai) - Author of dozens of useful ProcessWire modules.
 
-## Code Snippets
-* [ProcessWire Recipes](https://processwire-recipes.com/)
-* [Soma's Gists](https://gist.github.com/somatonic)
-
 ## Other
 * [ProcessWire Asset Catalog](https://pwgeeks.com/)
 
