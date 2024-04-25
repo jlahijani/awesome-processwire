@@ -10,6 +10,7 @@ Awesome ProcessWire
 * [API](https://processwire.com/api/ref/)
 * [API Cheatsheet](https://cheatsheet.processwire.com/)
 * [Blog](https://processwire.com/blog/)
+* [ProcessWire Developer Directory](https://directory.processwire.com/) - note: not maintained well / needs work
 * [ProcessWire Weekly](https://weekly.pw/)
 * [WordPress vs. ProcessWire](https://www.youtube.com/playlist?list=PLOrdUWNK38ibz8U_5Vq4zSPZfvFKzUuiT): 36 comparison videos
 * [Wirecasts (coming soon)](https://wirecasts.com/)
