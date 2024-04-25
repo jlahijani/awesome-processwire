@@ -56,6 +56,10 @@ Awesome ProcessWire
 * [Twitter](https://twitter.com/processwire)
 * [Facebook](https://www.facebook.com/groups/265558090161714/)
 
+## Notable People
+* [Ryan Cramer](https://processwire.com/about/team/ryan/) - Founder and lead ProcessWire developer; [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life).
+* [Teppo Koivula](https://github.com/teppokoivula) - Author of ProcessWire Weekly newsletter and module developer.
+
 ## Code Snippets
 * [ProcessWire Recipes](https://processwire-recipes.com/)
 * [Soma's Gists](https://gist.github.com/somatonic)
