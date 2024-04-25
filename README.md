@@ -42,6 +42,7 @@ Awesome ProcessWire
   * [Database Backups](https://modules.processwire.com/modules/process-database-backups/)
   * [ProcessRedirects](https://processwire.com/modules/process-redirects/)
 * Secondary Modules
+  * [Dashboard](https://processwire.com/modules/dashboard/)
   * [GraphQL](https://modules.processwire.com/modules/process-graph-ql/)
   * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/)
   * [Pages2JSON](https://github.com/IDT-media/Pages2JSON)
