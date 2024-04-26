@@ -44,6 +44,7 @@ Awesome ProcessWire
   * [ProcessRedirects](https://processwire.com/modules/process-redirects/)
 * Secondary Modules
   * [Dashboard](https://processwire.com/modules/dashboard/)
+  * [AppApi](https://processwire.com/modules/app-api/)
   * [GraphQL](https://modules.processwire.com/modules/process-graph-ql/)
   * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/)
   * [Pages2JSON](https://github.com/IDT-media/Pages2JSON)
