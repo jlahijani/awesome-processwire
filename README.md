@@ -31,6 +31,7 @@ Awesome ProcessWire
 * Powerful hook system (modify core functionality with ease)
 * Strong data relationships (relate pages with each other)
 * Everything is a custom field (no 'metadata' like WordPress)
+* Multi-lingual capability (a native feature)
 * Friendly community (from all parts of the planet)
 * Small but high-quality (less is more; for example, one great caching module instead of 347)
 * The lead developer is a super human "10x" developer, excellent writer with Cal Ripken-like dedication (rare to find)
