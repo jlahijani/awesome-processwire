@@ -13,7 +13,6 @@ Awesome ProcessWire
 * [ProcessWire Developer Directory](https://directory.processwire.com/): not maintained well / needs work
 * [ProcessWire Weekly](https://weekly.pw/)
 * [WordPress vs. ProcessWire](https://www.youtube.com/playlist?list=PLOrdUWNK38ibz8U_5Vq4zSPZfvFKzUuiT): 36 comparison videos
-* [Wirecasts (coming soon)](https://wirecasts.com/)
 
 ## Why ProcessWire?
 * Free and open-source (an unbelievable value!)
