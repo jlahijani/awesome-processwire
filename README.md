@@ -38,6 +38,7 @@ Awesome ProcessWire
   * [ProDrafts](https://processwire.com/store/pro-drafts/)
   * [Likes](https://processwire.com/talk/store/product/12-likes-fieldtype-dev/)
 * Primary Modules
+  * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/)
   * [Hanna Code](https://modules.processwire.com/modules/process-hanna-code/)
   * [ProcessWire Upgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
   * [Database Backups](https://modules.processwire.com/modules/process-database-backups/)
@@ -46,7 +47,6 @@ Awesome ProcessWire
   * [Dashboard](https://processwire.com/modules/dashboard/)
   * [AppApi](https://processwire.com/modules/app-api/)
   * [GraphQL](https://modules.processwire.com/modules/process-graph-ql/)
-  * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/)
   * [Pages2JSON](https://github.com/IDT-media/Pages2JSON)
 * Fields
   * [ProFields](https://processwire.com/store/pro-fields/)
