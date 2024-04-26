@@ -38,6 +38,7 @@ Awesome ProcessWire
 ## Important Docs
 * [$pages](https://processwire.com/api/ref/pages/)
 * [$page](https://processwire.com/api/ref/page/)
+* [$config](https://processwire.com/docs/start/variables/config/)
 * [$sanitizer](https://processwire.com/api/ref/sanitizer/)
 * [Selectors](https://processwire.com/docs/selectors/)
 * [Hooks](https://processwire.com/docs/modules/hooks/)
