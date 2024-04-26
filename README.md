@@ -93,6 +93,7 @@ Pro modules are downloaded from forum threads. They cannot be updated from GitHu
 * [Ryan Cramer](https://processwire.com/about/team/ryan/) - Founder and lead ProcessWire developer; [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life).
 * [Teppo Koivula](https://github.com/teppokoivula) - Author of ProcessWire Weekly newsletter and module developer.
 * [Robin Sallis](https://github.com/Toutouwai) - Author of dozens of useful ProcessWire modules.
+* [Bernhard Baumrock](https://github.com/BernhardBaumrock) - Author of several key ProcessWire modules, including RockMigrations, RockFrontend and RockShell.
 
 ## Other
 * [ProcessWire Asset Catalog](https://pwgeeks.com/)
