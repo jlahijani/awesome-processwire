@@ -15,6 +15,26 @@ Awesome ProcessWire
 * [WordPress vs. ProcessWire](https://www.youtube.com/playlist?list=PLOrdUWNK38ibz8U_5Vq4zSPZfvFKzUuiT): 36 comparison videos
 * [Wirecasts (coming soon)](https://wirecasts.com/)
 
+## Why ProcessWire?
+* Free and open-source (an unbelievable value!)
+* Uses classic LAMP stack (it still rocks)
+* Developed consistently since 2003 (and only getting better)
+* Updated **nearly every single Friday** (see the [dev branch](https://github.com/processwire/processwire/tree/dev))
+* Fun (and perhaps addictive; seriously I've been using it for over 10 years straight)
+* Simple (fields, templates and pages can pretty much do everything)
+* Fast (built for speed)
+* Secure (a 10 year old, neglected ProcessWire site won't get hacked)
+* Developer-oriented (but easy for non-technical users to manage content)
+* Unopinionated (do things your way)
+* Completely markup agnostic on the frontend (for the OCD people out there)
+* Well architected OOP and API (it's a work of art)
+* Powerful hook system (modify core functionality with ease)
+* Strong data relationships (relate pages with each other)
+* Everything is a custom field (no 'metadata' like WordPress)
+* Friendly community (from all parts of the planet)
+* Small but high-quality (less is more; for example, one great caching module instead of 347)
+* The lead developer is a super human "10x" developer, excellent writer with Cal Ripken-like dedication (rare to find)
+
 ## Important Docs
 * [$pages](https://processwire.com/api/ref/pages/)
 * [$page](https://processwire.com/api/ref/page/)
