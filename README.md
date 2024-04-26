@@ -85,6 +85,13 @@ Pro modules are downloaded from forum threads. They cannot be updated from GitHu
 
 @todo
 
+## Site Profiles
+When installing ProcessWire, you are only given the option to use the [Blank Site Profile](https://processwire.com/download/site-profiles/#blank-site-profile), which demonstrates a ProcessWire site in its purest, most minimal form.  While this suits the needs for experienced ProcessWire developers looking for a clean starting point, it may be too minimal for those just starting out.
+
+Consider using the [Regular Site Profile](https://processwire.com/download/site-profiles/#regular-site-profile) to get a better idea of how to build a typical website.
+
+If you are creating something more app-like with a strong emphasis on the admin interface, consider studying the [Invoices Site Profile](https://github.com/processwire/site-invoices) which demonstrates the use of Page Classes.
+
 ## Social
 * [GitHub](https://github.com/processwire)
 * [Twitter](https://twitter.com/processwire)
