@@ -86,6 +86,7 @@ Pro modules are downloaded from forum threads. They cannot be updated from GitHu
 @todo
 
 ## Social
+* [GitHub](https://github.com/processwire)
 * [Twitter](https://twitter.com/processwire)
 * [Facebook](https://www.facebook.com/groups/265558090161714/)
 
