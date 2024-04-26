@@ -20,6 +20,7 @@ Awesome ProcessWire
 - [$page](https://processwire.com/api/ref/page/)
 - [$sanitizer](https://processwire.com/api/ref/sanitizer/)
 - [Selectors](https://processwire.com/docs/selectors/)
+- [Hooks](https://processwire.com/docs/modules/hooks/)
 - [Markup Regions](https://processwire.com/docs/front-end/output/markup-regions/)
 - [setting() Function](https://processwire.com/api/ref/functions/setting/)
 - [datetime() Function](https://processwire.com/api/ref/functions/datetime/)
