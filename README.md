@@ -74,3 +74,16 @@ Pro modules are downloaded from forum threads. They cannot be updated from GitHu
 ## Other
 * [ProcessWire Asset Catalog](https://pwgeeks.com/)
 
+## Frontend Recommendations
+
+**Keep it simple!** Use a CSS framework combined with Alpine.js and HTMX and you'll have 99% of what you need on the frontend.  Embrace the concept of [HTML Over The Wire](https://signalvnoise.com/svn3/html-over-the-wire/) and consider ditching Node-based solutions for radical simplicity.
+
+### CSS Frameworks
+* [UIkit](https://getuikit.com/): CSS framework with JavaScript components
+* [Bootstrap](https://getbootstrap.com/): CSS framework with JavaScript components
+* [Tailwind CSS](https://tailwindcss.com/): CSS utility framework (no JavaScript components); [Flowbite](https://flowbite.com/) is strongly recommended for the JavaScript components
+
+### Libraries
+* [jQuery](https://jquery.com/): JavaScript library (or just use vanilla JavaScript)
+* [Alpine.js](https://alpinejs.dev/): Lightweight JavaScript framework
+* [HTMX](https://htmx.org/): HTML Over The Wire library
