@@ -38,7 +38,7 @@ Awesome ProcessWire
   * [ProDrafts](https://processwire.com/store/pro-drafts/)
   * [Likes](https://processwire.com/talk/store/product/12-likes-fieldtype-dev/)
 * Primary Modules
-  * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/)
+  * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/): It is **strongly recommended** you install and understand how to use this module.
   * [Hanna Code](https://modules.processwire.com/modules/process-hanna-code/)
   * [ProcessWire Upgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
   * [Database Backups](https://modules.processwire.com/modules/process-database-backups/)
