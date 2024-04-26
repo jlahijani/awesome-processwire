@@ -1,7 +1,7 @@
 Awesome ProcessWire
 ===================
 
-> A curated list of awesome bookmarks, modules, tutorials, videos and other cool resources from the ProcessWire ecosystem.
+> A curated list of awesome bookmarks, modules, tutorials, videos and other cool resources from the ProcessWire ecosystem.  Maintained by [Jonathan Lahijani](https://jonathanlahijani.com/).
 
 ## Essentials
 * [ProcessWire Website](https://processwire.com/)
