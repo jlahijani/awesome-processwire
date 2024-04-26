@@ -90,11 +90,11 @@ Pro modules are downloaded from forum threads. They cannot be updated from GitHu
 * [Facebook](https://www.facebook.com/groups/265558090161714/)
 
 ## Notable People
-* [Ryan Cramer](https://processwire.com/about/team/ryan/) - Founder and lead ProcessWire developer; [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life).
-* [Teppo Koivula](https://github.com/teppokoivula) - Author of ProcessWire Weekly newsletter and module developer.
-* [Robin Sallis](https://github.com/Toutouwai) - Author of dozens of useful ProcessWire modules.
-* [Adrian Jones](https://github.com/adrianbj) - Author of several ProcessWire modules, including the strongly recommended TracyDebugger.
-* [Bernhard Baumrock](https://github.com/BernhardBaumrock) - Author of several key ProcessWire modules, including RockMigrations, RockFrontend and RockShell.
+* [Ryan Cramer](https://processwire.com/about/team/ryan/): Founder and lead ProcessWire developer; [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life).
+* [Teppo Koivula](https://github.com/teppokoivula): Author of ProcessWire Weekly newsletter and module developer.
+* [Robin Sallis](https://github.com/Toutouwai): Author of dozens of useful ProcessWire modules.
+* [Adrian Jones](https://github.com/adrianbj): Author of several ProcessWire modules, including the strongly recommended TracyDebugger.
+* [Bernhard Baumrock](https://github.com/BernhardBaumrock): Author of several key ProcessWire modules, including RockMigrations, RockFrontend and RockShell.
 
 ## Other
 * [ProcessWire Asset Catalog](https://pwgeeks.com/)
