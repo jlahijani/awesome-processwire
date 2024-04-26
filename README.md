@@ -7,7 +7,7 @@ Awesome ProcessWire
 * [ProcessWire Website](https://processwire.com/)
 * [ProcessWire GitHub (dev branch)](https://github.com/processwire/processwire/tree/dev)
 * [Docs](https://processwire.com/docs/)
-* [API](https://processwire.com/api/ref/)
+* [API Reference](https://processwire.com/api/ref/)
 * [API Cheatsheet](https://cheatsheet.processwire.com/)
 * [Blog](https://processwire.com/blog/)
 * [ProcessWire Developer Directory](https://directory.processwire.com/): not maintained well / needs work
