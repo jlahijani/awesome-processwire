@@ -68,8 +68,8 @@ Awesome ProcessWire
 
 Pro modules are first party modules developed by Ryan Cramer, the lead developer of ProcessWire and help support continued development of the project.  Unlike community modules, Pro modules are downloaded from forum threads after purchasing a license (they cannot be updated from GitHub or the ProcessWire Upgrade module).  The links labeled "Forum Thread / Download" are the direct links to the forum threads which are viewable if you are (a) a forum member and (b) have an active module subscription:
 
-* [Form Builder](https://modules.processwire.com/modules/form-builder/): [Forum Thread / Download](https://processwire.com/talk/topic/1844--/)
-* [ProDevTools](https://processwire.com/store/pro-dev-tools/): [Forum Thread / Download](https://processwire.com/talk/topic/14885--/)
+* [Form Builder](https://modules.processwire.com/modules/form-builder/): [Forum Thread / Download](https://processwire.com/talk/topic/1844--)
+* [ProDevTools](https://processwire.com/store/pro-dev-tools/): [Forum Thread / Download](https://processwire.com/talk/topic/14885--)
   * ProfilerPro
   * UserActivity
   * ProcessWire API Explorer
@@ -77,8 +77,8 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * WireRequestBlocker
   * FormAutosaver
   * PageAutoSave
-* [ProCache](https://modules.processwire.com/modules/pro-cache/): [Forum Thread / Download](https://processwire.com/talk/topic/2654--/)
-* [ProFields](https://processwire.com/store/pro-fields/): [Forum Thread / Download](https://processwire.com/talk/topic/6413--/)
+* [ProCache](https://modules.processwire.com/modules/pro-cache/): [Forum Thread / Download](https://processwire.com/talk/topic/2654--)
+* [ProFields](https://processwire.com/store/pro-fields/): [Forum Thread / Download](https://processwire.com/talk/topic/6413--)
   * Combo
   * Repeater Matrix
   * Table
@@ -91,10 +91,10 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * Fieldset Group
   * Text Blocks
 * [ProMailer](https://processwire.com/store/pro-mailer/): [Forum Thread / Download](https://processwire.com/talk/topic/21048--)
-* [LoginRegisterPro](https://processwire.com/store/login-register-pro/): [Forum Thread / Download](https://processwire.com/talk/topic/22778--/)
-* [ListerPro](https://processwire.com/store/lister-pro/): [Forum Thread / Download](https://processwire.com/talk/topic/7793--/)
+* [LoginRegisterPro](https://processwire.com/store/login-register-pro/): [Forum Thread / Download](https://processwire.com/talk/topic/22778--)
+* [ListerPro](https://processwire.com/store/lister-pro/): [Forum Thread / Download](https://processwire.com/talk/topic/7793--)
 * [PagesVersionsPro](#): [Forum Thread / Download](https://processwire.com/talk/topic/29357--)
-* [ProDrafts](https://processwire.com/store/pro-drafts/): [Forum Thread / Download](https://processwire.com/talk/topic/12195--/)
+* [ProDrafts](https://processwire.com/store/pro-drafts/): [Forum Thread / Download](https://processwire.com/talk/topic/12195--)
 * [Likes](https://processwire.com/talk/store/product/12-likes-fieldtype-dev/)
 
 ### Community Modules
