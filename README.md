@@ -64,6 +64,17 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * PageAutoSave
 * [ProCache](https://modules.processwire.com/modules/pro-cache/): [Forum Thread / Download](https://processwire.com/talk/topic/2654--/)
 * [ProFields](https://processwire.com/store/pro-fields/): [Forum Thread / Download](https://processwire.com/talk/topic/6413--/)
+  * Combo
+  * Repeater Matrix
+  * Table
+  * Date Range
+  * Verified URL
+  * Textareas
+  * Multiplier
+  * AutoLinks
+  * Functional Fields
+  * Fieldset Group
+  * Text Blocks
 * [ProMailer](https://processwire.com/store/pro-mailer/): [Forum Thread / Download](https://processwire.com/talk/topic/21048--)
 * [LoginRegisterPro](https://processwire.com/store/login-register-pro/): [Forum Thread / Download](https://processwire.com/talk/topic/22778--/)
 * [ListerPro](https://processwire.com/store/lister-pro/): [Forum Thread / Download](https://processwire.com/talk/topic/7793--/)
