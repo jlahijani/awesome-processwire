@@ -48,16 +48,30 @@ Awesome ProcessWire
 * [WireHttp class](https://processwire.com/api/ref/wire-http/)
 
 ## Modules
-* Pro First Party Modules
-  * [Form Builder](https://modules.processwire.com/modules/form-builder/)
-  * [ProDevTools](https://processwire.com/store/pro-dev-tools/)
-  * [ProCache](https://modules.processwire.com/modules/pro-cache/)
-  * [ProFields](https://processwire.com/store/pro-fields/)
-  * [ProMailer](https://processwire.com/store/pro-mailer/)
-  * [LoginRegisterPro](https://processwire.com/store/login-register-pro/)
-  * [ListerPro](https://processwire.com/store/lister-pro/)
-  * [ProDrafts](https://processwire.com/store/pro-drafts/)
-  * [Likes](https://processwire.com/talk/store/product/12-likes-fieldtype-dev/)
+
+### Pro Modules
+
+Pro modules are first party modules developed by Ryan Cramer, the lead developer of ProcessWire and help support continued development of the project.  Unlike community modules, Pro modules are downloaded from forum threads after purchasing a license (they cannot be updated from GitHub or the ProcessWire Upgrade module).  The links labeled "Forum Thread / Download" are the direct links to the forum threads which are viewable if you are (a) a forum member and (b) have an active module subscription:
+
+* [Form Builder](https://modules.processwire.com/modules/form-builder/): [Forum Thread / Download](https://processwire.com/talk/topic/1844--/)
+* [ProDevTools](https://processwire.com/store/pro-dev-tools/): [Forum Thread / Download](https://processwire.com/talk/topic/14885--/)
+  * ProfilerPro
+  * UserActivity
+  * ProcessWire API Explorer
+  * WireSitemapXML
+  * WireRequestBlocker
+  * FormAutosaver
+  * PageAutoSave
+* [ProCache](https://modules.processwire.com/modules/pro-cache/): [Forum Thread / Download](https://processwire.com/talk/topic/2654--/)
+* [ProFields](https://processwire.com/store/pro-fields/): [Forum Thread / Download](https://processwire.com/talk/topic/6413--/)
+* [ProMailer](https://processwire.com/store/pro-mailer/): [Forum Thread / Download](https://processwire.com/talk/topic/21048--)
+* [LoginRegisterPro](https://processwire.com/store/login-register-pro/): [Forum Thread / Download](https://processwire.com/talk/topic/22778--/)
+* [ListerPro](https://processwire.com/store/lister-pro/): [Forum Thread / Download](https://processwire.com/talk/topic/7793--/)
+* [PagesVersionsPro](#): [Forum Thread / Download](https://processwire.com/talk/topic/29357--)
+* [ProDrafts](https://processwire.com/store/pro-drafts/): [Forum Thread / Download](https://processwire.com/talk/topic/12195--/)
+* [Likes](https://processwire.com/talk/store/product/12-likes-fieldtype-dev/)
+
+### Community Modules
 * Primary Modules
   * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/): It is **strongly recommended** you install and understand how to use this module.
   * [Hanna Code](https://modules.processwire.com/modules/process-hanna-code/)
@@ -80,10 +94,6 @@ Awesome ProcessWire
   * [Batcher](https://modules.processwire.com/modules/process-batcher/)
   * [Admin Template Columns](https://modules.processwire.com/modules/admin-template-columns/)
 
-## Pro Module Download Links
-Pro modules are downloaded from forum threads. They cannot be updated from GitHub or the ProcessWire Upgrade module.  These are the direct links to the forum threads which are viewable if you are (a) a forum member and (b) have an active module subscription:
-
-@todo
 
 ## Site Profiles
 When installing ProcessWire, you are only given the option to use the [Blank Site Profile](https://processwire.com/download/site-profiles/#blank-site-profile), which demonstrates a ProcessWire site in its purest, most minimal form.  While this suits the needs for experienced ProcessWire developers looking for a clean starting point, it may be too minimal for those just starting out.
