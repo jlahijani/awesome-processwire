@@ -95,7 +95,6 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * [GraphQL](https://modules.processwire.com/modules/process-graph-ql/)
   * [Pages2JSON](https://github.com/IDT-media/Pages2JSON)
 * Fields
-  * [ProFields](https://processwire.com/store/pro-fields/)
   * [Mystique](https://modules.processwire.com/modules/mystique/)
   * [Select File](https://modules.processwire.com/modules/fieldtype-select-file/)
 * Ecommerce
