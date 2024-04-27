@@ -89,7 +89,7 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * FormAutosaver
   * PageAutoSave
 * [ProCache](https://modules.processwire.com/modules/pro-cache/): [Forum Thread / Download](https://processwire.com/talk/topic/2654--)
-* [Form Builder](https://modules.processwire.com/modules/form-builder/): [Forum Thread / Download](https://processwire.com/talk/topic/1844--)
+* [FormBuilder](https://modules.processwire.com/modules/form-builder/): [Forum Thread / Download](https://processwire.com/talk/topic/1844--)
 * [ListerPro](https://processwire.com/store/lister-pro/): [Forum Thread / Download](https://processwire.com/talk/topic/7793--)
 * [ProMailer](https://processwire.com/store/pro-mailer/): [Forum Thread / Download](https://processwire.com/talk/topic/21048--)
 * [LoginRegisterPro](https://processwire.com/store/login-register-pro/): [Forum Thread / Download](https://processwire.com/talk/topic/22778--)
