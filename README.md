@@ -50,6 +50,14 @@ Awesome ProcessWire
 * [datetime() Function](https://processwire.com/api/ref/functions/datetime/)
 * [WireHttp class](https://processwire.com/api/ref/wire-http/)
 
+## Staying Up-to-date
+Here's a quick guide on how to stay up-to-date with ProcessWire, both in terms in code and community activity:
+
+- Use the [dev branch](https://github.com/processwire/processwire/tree/dev).  Follow the [commitment history](https://github.com/processwire/processwire/commits/dev).
+- View the [weekly update posted by Ryan in the forum "News and Announcements" section of the forum](https://processwire.com/talk/forum/7-news-amp-announcements/), generally on Fridays between 12:00pm to 3:00pm PST.  Depending on what's happening in a particular week, the weekly update may include a dedicated blog post.
+- View all [latest activity](https://processwire.com/talk/discover/) in the forum.
+- Visit [ProcessWire Weekly](https://weekly.pw/) on Saturday/Sunday for the latest post (or register for the newsletter to get it emailed to you 5-6 days after it is initially posted).
+
 ## Modules
 
 ### Pro Modules
