@@ -127,7 +127,7 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * [Mystique](https://modules.processwire.com/modules/mystique/)
   * [Select File](https://modules.processwire.com/modules/fieldtype-select-file/)
 * Ecommerce
-  * [Padloper](https://www.padloper.pw/)
+  * [Padloper](https://processwire.com/talk/topic/26944--)
   * [SnipWire](https://github.com/gadgetto/SnipWire)
 * Admin Tools
   * [Admin Template Columns](https://modules.processwire.com/modules/admin-template-columns/)
