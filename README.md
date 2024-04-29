@@ -3,6 +3,8 @@ Awesome ProcessWire
 
 > A curated list of awesome bookmarks, modules, tutorials, videos and other cool resources from the ProcessWire ecosystem.  Maintained by [Jonathan Lahijani](https://jonathanlahijani.com/).
 
+---
+
 - [Official Links](#official-links)
 - [Why ProcessWire?](#why-processwire)
 - [Important Docs](#important-docs)
@@ -16,6 +18,8 @@ Awesome ProcessWire
   - [CSS Frameworks](#css-frameworks)
   - [Libraries](#libraries)
 - [Other Links](#other-links)
+
+---
 
 ## Official Links
 * [ProcessWire Website](https://processwire.com/)
