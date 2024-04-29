@@ -3,7 +3,7 @@ Awesome ProcessWire
 
 > A curated list of awesome bookmarks, modules, tutorials, videos and other cool resources from the ProcessWire ecosystem.  Maintained by [Jonathan Lahijani](https://jonathanlahijani.com/).
 
-## Essentials
+## Official Links
 * [ProcessWire Website](https://processwire.com/)
 * [ProcessWire GitHub (dev branch)](https://github.com/processwire/processwire/tree/dev)
 * [Docs](https://processwire.com/docs/)
@@ -12,7 +12,9 @@ Awesome ProcessWire
 * [Blog](https://processwire.com/blog/)
 * [ProcessWire Developer Directory](https://directory.processwire.com/): not maintained well / needs work
 * [ProcessWire Weekly](https://weekly.pw/)
-* [WordPress vs. ProcessWire](https://www.youtube.com/playlist?list=PLOrdUWNK38ibz8U_5Vq4zSPZfvFKzUuiT): 36 comparison videos
+* [GitHub](https://github.com/processwire)
+* [Twitter](https://twitter.com/processwire)
+* [Facebook](https://www.facebook.com/groups/265558090161714/)
 
 ## Why ProcessWire?
 * Free and open-source (an unbelievable value!)
@@ -112,20 +114,12 @@ Consider using the [Regular Site Profile](https://processwire.com/download/site-
 
 If you are creating something more app-like with a strong emphasis on the admin interface, consider studying the [Invoices Site Profile](https://github.com/processwire/site-invoices) which demonstrates the use of Page Classes.
 
-## Social
-* [GitHub](https://github.com/processwire)
-* [Twitter](https://twitter.com/processwire)
-* [Facebook](https://www.facebook.com/groups/265558090161714/)
-
 ## Notable People
 * [Ryan Cramer](https://processwire.com/about/team/ryan/): Founder and lead ProcessWire developer; [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life).
 * [Teppo Koivula](https://github.com/teppokoivula): Author of ProcessWire Weekly newsletter and module developer.
 * [Robin Sallis](https://github.com/Toutouwai): Author of dozens of useful ProcessWire modules.
 * [Adrian Jones](https://github.com/adrianbj): Author of several ProcessWire modules, including the strongly recommended TracyDebugger.
 * [Bernhard Baumrock](https://github.com/BernhardBaumrock): Author of several key ProcessWire modules, including RockMigrations, RockFrontend and RockShell.
-
-## Other
-* [ProcessWire Asset Catalog](https://pwgeeks.com/)
 
 ## Frontend Recommendations
 
@@ -140,3 +134,7 @@ If you are creating something more app-like with a strong emphasis on the admin 
 * [jQuery](https://jquery.com/): JavaScript library (or just use vanilla JavaScript)
 * [Alpine.js](https://alpinejs.dev/): Lightweight JavaScript framework
 * [HTMX](https://htmx.org/): HTML Over The Wire library
+
+## Other Links
+* [ProcessWire Asset Catalog](https://pwgeeks.com/)
+* [WordPress vs. ProcessWire](https://www.youtube.com/playlist?list=PLOrdUWNK38ibz8U_5Vq4zSPZfvFKzUuiT): 36 comparison videos
