@@ -6,6 +6,7 @@ Awesome ProcessWire
 ## Official Links
 * [ProcessWire Website](https://processwire.com/)
 * [ProcessWire GitHub (dev branch)](https://github.com/processwire/processwire/tree/dev)
+* [ProcessWire Forum](https://processwire.com/talk/)
 * [Docs](https://processwire.com/docs/)
 * [API Reference](https://processwire.com/api/ref/)
 * [API Cheatsheet](https://cheatsheet.processwire.com/)
