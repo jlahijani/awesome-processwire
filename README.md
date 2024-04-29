@@ -130,7 +130,6 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * [Padloper](https://www.padloper.pw/)
   * [SnipWire](https://github.com/gadgetto/SnipWire)
 * Admin Tools
-  * [Batcher](https://modules.processwire.com/modules/process-batcher/)
   * [Admin Template Columns](https://modules.processwire.com/modules/admin-template-columns/)
 
 
