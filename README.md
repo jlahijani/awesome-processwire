@@ -178,6 +178,7 @@ The following modules are recommended alternatives for similar modules that are 
 * [jQuery](https://jquery.com/): JavaScript library (or just use vanilla JavaScript)
 * [Alpine.js](https://alpinejs.dev/): Lightweight JavaScript framework
 * [HTMX](https://htmx.org/): HTML Over The Wire library
+* [Hyperscript](https://hyperscript.org/): JavaScript library that embraces locality of behavior-style development (from the developer of HTMX)
 
 ## Other Links
 * [ProcessWire Asset Catalog](https://pwgeeks.com/)
