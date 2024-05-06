@@ -150,7 +150,7 @@ Like any long-running software, certain features have been deprecated and replac
 - [$cache](https://processwire.com/api/ref/wire-cache/) replaces [MarkupCache](https://processwire.com/modules/markup-cache/)
 - [$database](https://processwire.com/api/ref/wire-database-p-d-o/) replaces [$db](https://processwire.com/api/ref/database-mysqli/)
 - TinyMCE replaces CKEditor [(blog post)](https://processwire.com/blog/posts/using-tinymce-6-in-processwire/)
-- PagesVersionsPro will replace ProDrafts [(forum post)](https://processwire.com/talk/topic/29358--/#comment-237891)
+- PagesVersionsPro will replace (or merge with) ProDrafts [(forum post)](https://processwire.com/talk/topic/29358--/#comment-237891)
 - FieldsetGroup is now considered legacy [(forum post)](https://processwire.com/talk/topic/28637--/?do=findComment&comment=233904)
 
 ### Community Modules
