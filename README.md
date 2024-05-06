@@ -167,7 +167,7 @@ The following modules are recommended alternatives for similar modules that are 
 
 ## Frontend Recommendations
 
-**Keep it simple!** Use a CSS framework combined with Alpine.js and HTMX and you'll have 99% of what you need on the frontend.  Embrace the concept of [HTML Over The Wire](https://signalvnoise.com/svn3/html-over-the-wire/) and consider ditching Node-based solutions for radical simplicity.
+**Keep it simple!** Use a CSS framework combined with Alpine.js and HTMX and you'll have 99% of what you need on the frontend.  Embrace the concept of [HTML Over The Wire](https://signalvnoise.com/svn3/html-over-the-wire/), the modern monolith and consider ditching Node-based solutions for radical simplicity.
 
 ### CSS Frameworks
 * [UIkit](https://getuikit.com/): CSS framework with JavaScript components
