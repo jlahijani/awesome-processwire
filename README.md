@@ -13,6 +13,9 @@ Awesome ProcessWire
   - [Pro Modules](#pro-modules)
   - [Community Modules](#community-modules)
 - [Site Profiles](#site-profiles)
+- [Deprecations and Replacements](#deprecations-and-replacements)
+  - [Core and Pro Modules](#core-and-pro-modules)
+  - [Community Modules](#community-modules-1)
 - [Notable People](#notable-people)
 - [Frontend Recommendations](#frontend-recommendations)
   - [CSS Frameworks](#css-frameworks)
@@ -139,6 +142,21 @@ When installing ProcessWire, you are only given the option to use the [Blank Sit
 Consider using the [Regular Site Profile](https://processwire.com/download/site-profiles/#regular-site-profile) to get a better idea of how to build a typical website.
 
 If you are creating something more app-like with a strong emphasis on the admin interface, consider studying the [Invoices Site Profile](https://github.com/processwire/site-invoices) which demonstrates the use of Page Classes.
+
+## Deprecations and Replacements
+Like any long-running software, certain features have been deprecated and replaced with improved solutions over time.  These include:
+
+### Core and Pro Modules
+- [$cache](https://processwire.com/api/ref/wire-cache/) replaces [MarkupCache](https://processwire.com/modules/markup-cache/)
+- [$database](https://processwire.com/api/ref/wire-database-p-d-o/) replaces [$db](https://processwire.com/api/ref/database-mysqli/)
+- TinyMCE replaces CKEditor [(blog post)](https://processwire.com/blog/posts/using-tinymce-6-in-processwire/)
+- PagesVersionsPro will replace ProDrafts [(forum post)](https://processwire.com/talk/topic/29358--/#comment-237891)
+- FieldsetGroup is now considered legacy [(forum post)](https://processwire.com/talk/topic/28637--/?do=findComment&comment=233904)
+
+### Community Modules
+The following modules are recommended alternatives for similar modules that are no longer maintained:
+- [RockShell](https://github.com/baumrock/RockShell) replaces [WireShell](https://github.com/wireshell/wireshell)
+- [ProcessRedirects](https://processwire.com/modules/process-redirects/) replaces [Jumplinks](https://github.com/mikerockett/jumplinks)
 
 ## Notable People
 * [Ryan Cramer](https://processwire.com/about/team/ryan/): Founder and lead ProcessWire developer; [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life).
