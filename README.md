@@ -63,6 +63,7 @@ Awesome ProcessWire
 * [$pages](https://processwire.com/api/ref/pages/)
 * [$page](https://processwire.com/api/ref/page/)
 * [$config](https://processwire.com/docs/start/variables/config/)
+* [$files](https://processwire.com/api/ref/wire-file-tools/)
 * [$sanitizer](https://processwire.com/api/ref/sanitizer/)
 * [Selectors](https://processwire.com/docs/selectors/)
 * [Hooks](https://processwire.com/docs/modules/hooks/)
