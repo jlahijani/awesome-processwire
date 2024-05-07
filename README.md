@@ -124,17 +124,26 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * [ProcessRedirects](https://processwire.com/modules/process-redirects/)
 * Secondary Modules
   * [Dashboard](https://processwire.com/modules/dashboard/)
+  * [WireMailSmtp](https://processwire.com/modules/wire-mail-smtp/)
+  * [ProcessMediaLister](https://processwire.com/modules/process-media-lister/)
+  * [LoginPersist](https://processwire.com/modules/login-persist/)
+  * [PrivacyWire](https://processwire.com/modules/privacy-wire/)
+* API/JSON
   * [AppApi](https://processwire.com/modules/app-api/)
   * [GraphQL](https://modules.processwire.com/modules/process-graph-ql/)
   * [Pages2JSON](https://github.com/IDT-media/Pages2JSON)
 * Fields
   * [Mystique](https://modules.processwire.com/modules/mystique/)
   * [Select File](https://modules.processwire.com/modules/fieldtype-select-file/)
+* Multi-lingual
+  * [Fluency](https://processwire.com/modules/fluency/)
 * Ecommerce
   * [Padloper](https://processwire.com/talk/topic/26944--)
   * [SnipWire](https://github.com/gadgetto/SnipWire)
 * Admin Tools
   * [Admin Template Columns](https://modules.processwire.com/modules/admin-template-columns/)
+  * [SelectizeAll](https://processwire.com/modules/selectize-all/)
+  * [CustomInputfieldDependencies](https://processwire.com/modules/custom-inputfield-dependencies/)
 
 
 ## Site Profiles
