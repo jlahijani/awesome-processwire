@@ -71,6 +71,7 @@ Awesome ProcessWire
 * [setting() Function](https://processwire.com/api/ref/functions/setting/)
 * [datetime() Function](https://processwire.com/api/ref/functions/datetime/)
 * [WireHttp class](https://processwire.com/api/ref/wire-http/)
+* [inputfields.js](https://github.com/processwire/processwire/blob/dev/wire/templates-admin/scripts/inputfields.js)
 
 ## Staying Up-to-date
 Here's a quick guide on how to stay up-to-date with ProcessWire, both in terms of code and community activity:
