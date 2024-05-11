@@ -10,12 +10,13 @@ Awesome ProcessWire
 - [Important Docs](#important-docs)
 - [Staying Up-to-date](#staying-up-to-date)
 - [Modules](#modules)
-  - [Pro Modules](#pro-modules)
-  - [Community Modules](#community-modules)
+  - [Pro Modules (first-party / commercial)](#pro-modules-first-party--commercial)
+  - [Non-core Modules (first-party / free)](#non-core-modules-first-party--free)
+  - [Community Modules (third-party / free)](#community-modules-third-party--free)
 - [Site Profiles](#site-profiles)
 - [Deprecations and Replacements](#deprecations-and-replacements)
   - [Core and Pro Modules](#core-and-pro-modules)
-  - [Community Modules](#community-modules-1)
+  - [Community Modules](#community-modules)
 - [Notable People](#notable-people)
 - [Frontend Recommendations](#frontend-recommendations)
   - [CSS Frameworks](#css-frameworks)
@@ -83,8 +84,7 @@ Here's a quick guide on how to stay up-to-date with ProcessWire, both in terms o
 
 ## Modules
 
-### Pro Modules
-
+### Pro Modules (first-party / commercial)
 Pro modules are first party modules developed by Ryan Cramer, the lead developer of ProcessWire and help support continued development of the project.  Unlike community modules, Pro modules are downloaded from forum threads after purchasing a license (they cannot be updated from GitHub or the ProcessWire Upgrade module).  The links labeled "Forum Thread / Download" are the direct links to the forum threads which are viewable if you are (a) a forum member and (b) have an active module subscription:
 
 * [ProFields](https://processwire.com/store/pro-fields/): [Forum Thread / Download](https://processwire.com/talk/topic/6413--)
@@ -116,12 +116,21 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
 * [ProDrafts](https://processwire.com/store/pro-drafts/): [Forum Thread / Download](https://processwire.com/talk/topic/12195--)
 * [Likes](https://processwire.com/talk/store/product/12-likes-fieldtype-dev/)
 
-### Community Modules
+### Non-core Modules (first-party / free)
+These are a sampling of separate free, first-party modules (developed by Ryan Cramer, creator of ProcessWire).
+
+* [ProcessWire Upgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
+* [Database Backups](https://modules.processwire.com/modules/process-database-backups/)
+* [Hanna Code](https://modules.processwire.com/modules/process-hanna-code/)
+* [WireWordTools](https://processwire.com/modules/wire-word-tools/)
+* [TextformatterVideoEmbed](https://processwire.com/modules/textformatter-video-embed/)
+* [PageEditLockFields](https://processwire.com/modules/page-edit-lock-fields/)
+
+### Community Modules (third-party / free)
+Community modules are modules developed by third-party developers and part of the overall ProcessWire ecosystem.
+
 * Primary Modules
   * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/): It is **strongly recommended** you install and understand how to use this module.
-  * [Hanna Code](https://modules.processwire.com/modules/process-hanna-code/)
-  * [ProcessWire Upgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
-  * [Database Backups](https://modules.processwire.com/modules/process-database-backups/)
   * [ProcessRedirects](https://processwire.com/modules/process-redirects/)
 * Secondary Modules
   * [Dashboard](https://processwire.com/modules/dashboard/)
