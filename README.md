@@ -88,6 +88,7 @@ Here's a quick guide on how to stay up-to-date with ProcessWire, both in terms o
 Pro modules are first party modules developed by Ryan Cramer, the lead developer of ProcessWire and help support continued development of the project.  Unlike community modules, Pro modules are downloaded from forum threads after purchasing a license (they cannot be updated from GitHub or the ProcessWire Upgrade module).  The links labeled "Forum Thread / Download" are the direct links to the forum threads which are viewable if you are (a) a forum member and (b) have an active module subscription:
 
 * [ProFields](https://processwire.com/store/pro-fields/): [Forum Thread / Download](https://processwire.com/talk/topic/6413--)
+  * PageEditChildren (technically not a "field"; may become part of core)
   * Combo
   * Repeater Matrix
   * Table
