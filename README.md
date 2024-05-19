@@ -60,6 +60,13 @@ Awesome ProcessWire
 * Small but high-quality (less is more; for example, one great caching module instead of 347)
 * The lead developer is a super human "10x" developer, excellent writer with Cal Ripken-like dedication (rare to find)
 
+Additional articles:
+* [Why ProcessWire?](https://processwire.com/about/why/) (processwire.com)
+* [Why ProcessWire is the best CMS for your website](https://dotnetic.de/blog/processwire-the-best-cms)
+* [ProcessWire - The WordPress alternative for developers](https://www.ionos.com/digitalguide/hosting/cms/processwire/)
+* [Should I use ProcessWire for the Development of my CMS and Framework?](https://www.netdreams.co.uk/blog/processwire-website-development/)
+* [Why We Build With Processwire](https://www.prestoav.com/blog/why-we-build-with-processwire/)
+
 ## Important Docs
 * [$pages](https://processwire.com/api/ref/pages/)
 * [$page](https://processwire.com/api/ref/page/)
