@@ -118,6 +118,9 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * WireSitemapXML
     * [Forum Topic](https://processwire.com/talk/topic/28213--) and [Blog Post](https://processwire.com/blog/posts/pw-3.0.213/)
   * WireRequestBlocker
+    * [Forum Topic](https://processwire.com/talk/topic/28334--)
+    * [Forum Topic 2](https://processwire.com/talk/topic/28359--)
+    * [Forum Topic 3 (pre-announcement)](https://processwire.com/talk/topic/28308--)
   * FormAutosaver
   * PageAutoSave
 * [ProCache](https://modules.processwire.com/modules/pro-cache/): [Forum Thread / Download](https://processwire.com/talk/topic/2654--)
