@@ -193,7 +193,7 @@ Like any long-running software, certain features have been deprecated and replac
 
 ### Community Modules
 The following modules are recommended alternatives for similar modules that are no longer maintained:
-- [RockShell](https://github.com/baumrock/RockShell) replaces [WireShell](https://github.com/wireshell/wireshell)
+- [RockShell](https://github.com/baumrock/RockShell) or [wire-cli](https://github.com/wirecli/wire-cli) replaces [WireShell](https://github.com/wireshell/wireshell)
 - [RockAdminTweaks](https://processwire.com/modules/rock-admin-tweaks/) replaces AdminOnSteriods
 - [ProcessRedirects](https://processwire.com/modules/process-redirects/) replaces [Jumplinks](https://github.com/mikerockett/jumplinks)
 
