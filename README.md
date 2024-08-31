@@ -170,7 +170,9 @@ Community modules are modules developed by third-party developers and part of th
   * [Admin Template Columns](https://modules.processwire.com/modules/admin-template-columns/)
   * [SelectizeAll](https://processwire.com/modules/selectize-all/)
   * [CustomInputfieldDependencies](https://processwire.com/modules/custom-inputfield-dependencies/)
-
+* Database Migrations
+  * [RockMigrations](https://processwire.com/modules/rock-migrations/)
+  * [ProcessDbMigrate](https://processwire.com/modules/process-db-migrate/)
 
 ## Site Profiles
 When installing ProcessWire, you are only given the option to use the [Blank Site Profile](https://processwire.com/download/site-profiles/#blank-site-profile), which demonstrates a ProcessWire site in its purest, most minimal form.  While this suits the needs for experienced ProcessWire developers looking for a clean starting point, it may be too minimal for those just starting out.
