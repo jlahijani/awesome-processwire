@@ -96,6 +96,9 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
 
 * [ProFields](https://processwire.com/store/pro-fields/): [Forum Thread / Download](https://processwire.com/talk/topic/6413--)
   * PageEditChildren (technically not a "field"; may become part of core)
+    * [Forum Topic](https://processwire.com/talk/topic/29968--)
+    * [Forum Topic 2](https://processwire.com/talk/topic/29989--)
+    * [Forum Topic 3](https://processwire.com/talk/topic/30012--) (released)
   * Custom
     * [Forum Topic](https://processwire.com/talk/topic/30361--) and [Blog Post](https://processwire.com/blog/posts/custom-fields-module/)
   * Combo
@@ -120,7 +123,7 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * WireRequestBlocker
     * [Forum Topic](https://processwire.com/talk/topic/28334--)
     * [Forum Topic 2](https://processwire.com/talk/topic/28359--)
-    * [Forum Topic 3 (pre-announcement)](https://processwire.com/talk/topic/28308--)
+    * [Forum Topic 3](https://processwire.com/talk/topic/28308--) (pre-announcement)
   * FormAutosaver
   * PageAutoSave
 * [ProCache](https://modules.processwire.com/modules/pro-cache/): [Forum Thread / Download](https://processwire.com/talk/topic/2654--)
