@@ -97,10 +97,11 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
 * [ProFields](https://processwire.com/store/pro-fields/): [Forum Thread / Download](https://processwire.com/talk/topic/6413--)
   * PageEditChildren (technically not a "field"; may become part of core)
   * Custom
-    * [Blog Post](https://processwire.com/blog/posts/custom-fields-module/)
-    * [Forum Discussion](https://processwire.com/talk/topic/30361--)
+    * [Forum Topic](https://processwire.com/talk/topic/30361--) and [Blog Post](https://processwire.com/blog/posts/custom-fields-module/)
   * Combo
   * Repeater Matrix
+    * [Forum Topic](https://processwire.com/talk/topic/11869-pw-304-repeaters-revisited-profields-matrix/) and [Blog Post](https://processwire.com/blog/posts/processwire-3.0.4-repeaters-revisited-preview-of-profields-matrix/#new-profields-repeater-matrix-field)
+    * [Forum Topic 2](https://processwire.com/talk/topic/26267--) and [Blog Post 2](https://processwire.com/blog/posts/new-repeater-and-repeater-matrix-features/)
   * Table
   * Date Range
   * Verified URL
