@@ -96,6 +96,9 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
 
 * [ProFields](https://processwire.com/store/pro-fields/): [Forum Thread / Download](https://processwire.com/talk/topic/6413--)
   * PageEditChildren (technically not a "field"; may become part of core)
+  * Custom
+    * [Blog Post](https://processwire.com/blog/posts/custom-fields-module/)
+    * [Forum Discussion](https://processwire.com/talk/topic/30361--)
   * Combo
   * Repeater Matrix
   * Table
