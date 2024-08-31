@@ -116,6 +116,7 @@ Pro modules are first party modules developed by Ryan Cramer, the lead developer
   * UserActivity
   * ProcessWire API Explorer
   * WireSitemapXML
+    * [Forum Topic](https://processwire.com/talk/topic/28213--) and [Blog Post](https://processwire.com/blog/posts/pw-3.0.213/)
   * WireRequestBlocker
   * FormAutosaver
   * PageAutoSave
