@@ -171,6 +171,7 @@ Community modules are modules developed by third-party developers and part of th
   * [SnipWire](https://github.com/gadgetto/SnipWire)
 * Admin Tools
   * [Admin Template Columns](https://modules.processwire.com/modules/admin-template-columns/)
+  * [ProcessRenderFile](https://processwire.com/modules/process-render-file/): Create simple admin screens without having to create a dedicated process module
   * [SelectizeAll](https://processwire.com/modules/selectize-all/)
   * [CustomInputfieldDependencies](https://processwire.com/modules/custom-inputfield-dependencies/)
 * Database Migrations
