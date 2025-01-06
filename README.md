@@ -172,6 +172,7 @@ Community modules are modules developed by third-party developers and part of th
   * [SnipWire](https://github.com/gadgetto/SnipWire)
 * Page Builders
   * [RockPageBuilder](https://www.baumrock.com/en/processwire/modules/rockpagebuilder/)
+  * [PAGEGRID](https://page-grid.com/)
 * Admin Tools
   * [Admin Template Columns](https://modules.processwire.com/modules/admin-template-columns/)
   * [ProcessRenderFile](https://processwire.com/modules/process-render-file/): Create simple admin screens without having to create a dedicated process module
